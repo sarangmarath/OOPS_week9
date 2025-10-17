@@ -1,4 +1,3 @@
-// File: CarDemo.java
 class Car {
     private String brand;
     private String model;
