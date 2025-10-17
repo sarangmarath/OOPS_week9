@@ -1,4 +1,3 @@
-// File: Hospital.java
 class Hospital {
     private String name;
 
