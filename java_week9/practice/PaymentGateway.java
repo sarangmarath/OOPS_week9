@@ -1,4 +1,3 @@
-// File: PaymentGateway.java
 class Payment {
     public void pay() {
         System.out.println("Generic payment");
