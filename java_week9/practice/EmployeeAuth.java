@@ -1,4 +1,3 @@
-// File: EmployeeAuth.java
 import java.util.HashSet;
 
 class Employee {
