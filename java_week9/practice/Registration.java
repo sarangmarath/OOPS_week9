@@ -1,4 +1,3 @@
-// File: Registration.java
 class ContactInfo implements Cloneable {
     String email;
     String phone;
